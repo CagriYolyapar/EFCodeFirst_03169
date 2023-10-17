@@ -1,1 +1,9 @@
 ﻿1 => Su ana kadar yapmıs oldugunuz bütün veritabanlarını CodeFirst ile yapın...
+
+Onerilen Proje yapım sırası => 
+
+EF indirilir
+App.Config'e ilgili adres tanımlanır
+Models ve icerisindeki klasorlerden enums'a Enum tipi acılır...
+Sonra tablolarınızı temsil edecek class'lar acılır...
+Sonra Context class'ınız acılır (Veritabanınızı temsil eden sınıfınız)
